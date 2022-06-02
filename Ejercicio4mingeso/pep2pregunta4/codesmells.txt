@@ -1,0 +1,23 @@
+transformando el metodo en static para poder ser ejecutado.
+
+variables sin usar : 
+- k
+- pdatos
+- nlist
+
+Refactoring : se eliminaran estas variables del codigo
+
+moviendo las declaraciones a un bloque solamente para ellas.
+
+n>=2
+
+Refactoring : Se crea la variable minimo de ejecucion, en ella se establece el minimo global que debe operar en el
+programa.
+
+Math.sqrt(d)+1
+
+Refactoring : se aplica la raiz cuadrada en las declaraciones, no en el ciclo for
+
+cuenta
+
+Refactoring : se reposiciona donde se ubican las variables

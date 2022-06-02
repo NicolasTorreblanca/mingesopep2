@@ -32,7 +32,7 @@ public public class Algoritmo
                if(tabla[i])
                    cuenta ++;
             }
-            int[]n_prim=new int[cuenta];
+            int[] n_prim =new int[cuenta];
             for(i=0,j=0;i<d;i++){
                if(tabla[i])
                    n_prim[j++]=i;

@@ -1,0 +1,68 @@
+puntaje pia:
+
+JetSmart
+
+impares = 3 + 3	+ 2 + 2	+ 2 = 12	12 - 5 = 7	
+pares = 4 + 3 + 3 + 3 + 2 =  15		25 - 15 = 10 
+
+Puntaje sus = (10+7) * 2.5 = 34 + 8.5 = 42.5
+
+Latam
+
+impares = 3 + 5 + 4 + 2 + 5 = 19	19 - 5  = 14
+pares = 2 + 3 + 3 + 2 + 2  =  12	25 - 12 = 13 
+
+Puntaje sus = (14+13) * 2.5 = 67.5
+
+Sky
+
+impares = 4 + 4 + 3 + 2 + 3 = 16	16 - 5 = 11
+pares = 3 + 2 + 3 + 3 + 2   = 13	25 - 13= 12 
+
+Puntaje sus = (11+12) * 2.5 = 57.5 
+
+puntaje armando:
+
+JetSmart
+
+impares = 5 + 5 + 5 + 5 + 5 = 25	25-5 = 20	
+pares = 1 + 1 + 2 + 1 + 1 = 6		25-6 = 19
+
+Puntaje sus = (20+19)*2.5 = 97.5
+
+Latam
+
+impares = 5 + 5 + 5 + 5 + 5  = 25       25-5 = 20
+pares = 1 + 1 + 1 + 1 + 1 = 5           25-5 = 20
+
+Puntaje sus = (20+20)*2.5 = 100
+ 
+Sky
+
+impares = 5 + 5 + 5 + 5 + 5 = 25	25-5 = 20
+pares = 1 + 1 + 1 + 1 + 1 = 5		25-5 = 20
+
+Puntaje sus = (20+20)*2.5 = 100
+
+puntaje vivian:
+
+JetSmart
+
+impares = 4 + 5 + 4 + 4 + 5 = 22	22-5 = 17	
+pares = 2 + 1 + 1 + 1 + 2 = 7		25-7 = 18       
+
+Puntaje sus = (17+18)*2.5 = 87.5
+
+Latam
+
+impares = 4 + 4 + 4 + 4 +5 = 21		21 - 5 = 16
+pares = 4 + 2 + 2 + 2 + 2 = 12		25- 12 = 13
+
+Puntaje sus = (16+13)*2.5 = 72.5
+
+Sky
+
+impares = 4 + 4 + 2 + 4 + 5 = 17	17 - 5 = 12
+pares = 2 + 2 + 2 + 2 + 2 = 10		25 - 10 = 15
+
+Puntaje sus = (12+15)*2.5 = 67.5
